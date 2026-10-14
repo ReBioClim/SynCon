@@ -1,0 +1,28 @@
+Package: SynCon
+Title: Synergies and Conflicts for Stream Restoration Analysis
+Version: 0.1.0
+Authors@R: c(
+    person("Yehan", "Wu", , "yehanwu@tudelft.nl", role = c("aut", "cre", "cph"),
+           comment = c(ORCID = "0000-0003-4063-7535")),
+    person("Claudiu", "Forgaci", , "c.forgaci@tudelft.nl", role = c("aut", "cre", "cph"),
+           comment = c(ORCID = "0000-0003-3218-5102"))
+  )
+Description: An interactive tool for analysing synergies and conflicts in
+ urban stream restoration. It compares spatial conditions and public support
+ for identified ecological restoration goals, using ReBioClim pilot cases as
+ examples.
+Depends:
+    R (>= 4.1)
+Imports:
+    bslib,
+    dplyr,
+    DT,
+    ggplot2,
+    leaflet,
+    plotly,
+    sf,
+    shiny
+License: MIT License
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3

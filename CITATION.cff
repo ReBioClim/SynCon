@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  SynCon: Synergies and Conflicts analysis for urban stream
+  restoration
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Yehan
+    family-names: Wu
+    email: yehanwu@tudelft.nl
+    affiliation: Delft University of Technology
+    orcid: 'https://orcid.org/0000-0003-4063-7535'
+  - given-names: Claudiu
+    family-names: Forgaci
+    email: c.forgaci@tudelft.nl
+    affiliation: Delft University of Technology
+    orcid: 'https://orcid.org/0000-0003-3218-5102'
