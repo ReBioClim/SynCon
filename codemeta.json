@@ -1,0 +1,50 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "identifier": "SynCon",
+  "name": "SynCon",
+  "description": "An interactive tool for analysing synergies and conflicts in urban stream restoration. It compares spatial conditions and public support for identified ecological restoration goals, using ReBioClim pilot cases as examples.",
+  "version": "0.1.0",
+  "codeRepository": "https://github.com/ReBioClim/ShinyApp",
+  "readme": "https://github.com/ReBioClim/ShinyApp#readme",
+  "issueTracker": "https://github.com/ReBioClim/ShinyApp/issues",
+  "license": "https://spdx.org/licenses/MIT",
+  "programmingLanguage": "R",
+  "runtimePlatform": "R >= 4.1",
+  "applicationCategory": "Environmental decision support",
+  "keywords": [
+    "urban stream restoration",
+    "synergies and conflicts",
+    "nature-based solutions",
+    "spatial analysis",
+    "public support",
+    "Shiny"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Yehan",
+      "familyName": "Wu",
+      "email": "yehanwu@tudelft.nl",
+      "@id": "https://orcid.org/0000-0003-4063-7535"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Claudiu",
+      "familyName": "Forgaci",
+      "email": "c.forgaci@tudelft.nl",
+      "@id": "https://orcid.org/0000-0003-3218-5102"
+    }
+  ],
+  "softwareRequirements": [
+    "bslib",
+    "dplyr",
+    "DT",
+    "ggplot2",
+    "leaflet",
+    "plotly",
+    "sf",
+    "shiny"
+  ],
+  "copyrightYear": 2026
+}
