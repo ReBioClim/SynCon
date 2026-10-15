@@ -1,6 +1,6 @@
 # SynCon
 
-Synergies and conflicts analysis of urban stream restoration.
+A decision-support tool to identify synergies and conflicts between spatial conditions and public support for urban stream restoration.
 
 [![DOI: 10.5281/zenodo.23370008](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23370008-blue)](https://doi.org/10.5281/zenodo.23370008) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![Rbanism: R package](https://img.shields.io/static/v1?label=Rbanism&message=R%20package&labelColor=93278F&color=00A99D&style=flat-square)](https://github.com/Rbanism)
 
@@ -25,13 +25,13 @@ The **ReBioClim Example** tab provides a worked example, and the **Help** tab ex
 
 ## Run locally
 
-Install [R](https://www.r-project.org/) version 4.1 or later. Download this repository, or clone it:
+Install [R](https://www.r-project.org/) version 4.1 or later. Clone this repository:
 
 ``` sh
 git clone https://github.com/ReBioClim/SynCon.git
 ```
 
-Open the repository folder in R or RStudio and install the required packages:
+Install the required R packages:
 
 ``` r
 install.packages(c(
