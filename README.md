@@ -6,8 +6,6 @@ A decision-support tool to identify synergies and conflicts between spatial cond
 
 [Launch SynCon — latest version](https://rebioclim.shinyapps.io/SynCon-202610/)
 
-Earlier archived versions: [September 2026](https://rebioclim.shinyapps.io/syncon-202609/) · [August 2026](https://rebioclim.shinyapps.io/syncon-worksession/)
-
 SynCon is an interactive R Shiny application that compares spatial conditions and public support for identified ecological restoration goals. It acts as a decision-support tool, helping city planners, restoration teams and researchers explore where restoration measures align with public preferences and where further stakeholder engagement or restoration measures may be needed.
 
 The tool follows the ReBioClim Deliverable [D1.3.1](https://www.interreg-central.eu/wp-content/uploads/2026/09/D1.3.1-ReBioClim-Synergies-And-Conflicts.pdf) workflow for social-ecological synergies and conflicts. Data from four ReBioClim pilot streams, Bila Nisa, Geberbach, Piasnica and Teplica, illustrate the method.
